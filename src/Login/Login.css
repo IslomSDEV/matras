@@ -1,0 +1,66 @@
+.loginSy {
+    width: 100vw;
+    height: 100vh;
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.loginDiv {
+    width: 400px;
+    box-sizing: border-box;
+    padding: 25px 40px 25px 20px;
+    border-radius: 7px;
+    box-shadow: 0 0 10px 2px #01374d1f;
+}
+
+.loginTitle {
+    width: 100%;
+    text-align: center;
+    font-size: 26px;
+    color: #01384D;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    line-height: 28px;
+    margin-bottom: 20px;
+}
+
+.loginInput {
+    display: flex;
+    width: 100%;
+    padding: 15px 10px;
+    border: 2px solid rgba(40, 46, 56, 0.167);
+    outline: none;
+    background-color: #fff;
+    font-size: 16px;
+    border-radius: 6px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.loginLabel {
+    font-size: 13px;
+    font-weight: 500;
+    font-family: "Montserrat", sans-serif;
+    line-height: 13px;
+    color: #01384D;
+}
+
+.loginBtn {
+    width: 362px;
+    border: none;
+    padding: 15px 10px;
+    background-color: #01384D;
+    color: #fff;
+    border-radius: 10px;
+    font-weight: 600;
+    font-family: "Montserrat", sans-serif;
+    cursor: pointer;
+    font-size: 16px;
+}

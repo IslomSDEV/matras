@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "product_name": "Ortopedik Eko matras",
+        "weight": 150,
+        "kafolat": 3,
+        "olcham": "200x120x40",
+        "sigimi": 2,
+        "desc": "Penatibus viverra gravida rhoncus in. At turpis morbi ante tortor a est. Habitant adipiscing ut sed pulvinar tellus, ut urna, fermentum. Porttitor senectus lorem rhoncus facilisi ac dictum varius egestas.",
+        "price_now": "1 299 999",
+        "old_price": "1 699 999",
+        "pictures": {
+          "image_1": "https://storage.kun.uz/source/9/0YZvahqPEtm0wLRX5wyFt9biwV9spvXN.jpg",
+          "image_2": "https://cdn.matras.ru/upload/catalog/middle/matras-Stearns--Foster-Estate-Cushion.jpg",
+          "image_3": "https://matras.center/3844-home_default/matras-dynasty-styuart-royal-come-for.jpg"
+        },
+        "turi": "Aksiya"
+      },
+      {
+        "id": 2,
+        "product_name": "Lux Soft Memory",
+        "weight": 150,
+        "kafolat": 3,
+        "olcham": "200x120x40",
+        "sigimi": 2,
+        "desc": "Penatibus viverra gravida rhoncus in. At turpis morbi ante tortor a est. Habitant adipiscing ut sed pulvinar tellus, ut urna, fermentum. Porttitor senectus lorem rhoncus facilisi ac dictum varius egestas.",
+        "price_now": "1 299 999",
+        "old_price": "1 699 999",
+        "pictures": {
+          "image_1": "https://storage.kun.uz/source/9/0YZvahqPEtm0wLRX5wyFt9biwV9spvXN.jpg",
+          "image_2": "https://sleepvip.uz/thumb/2/Pzc96rykUexQu5u9jyxHVg/120r120/d/matras_light_rakurs_2.jpg",
+          "image_3": "https://sleepvip.uz/thumb/2/ZCxugdkPy5cFZWleLDz_qw/750r750/d/light_matress_full.jpg"
+        },
+        "turi": "Aksiya"
+      }
+]

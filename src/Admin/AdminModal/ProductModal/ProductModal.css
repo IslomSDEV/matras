@@ -1,0 +1,238 @@
+.ProductModalSy {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background-color: rgba(88, 88, 88, 0.156);
+    backdrop-filter: blur(15px);
+    z-index: 999999999;
+    display: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.proShow {
+    display: flex;
+}
+
+.ProductModalDiv {
+    width: 1120px;
+    height: 450px;
+    box-sizing: border-box;
+    padding: 10px 30px;
+    background-color: #fff;
+    position: relative;
+}
+
+.closeBtnpro {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #01384D;
+    color: #fff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 3px 6px;
+    font-size: 20px;
+}
+
+.proModalTitle {
+    width: 100%;
+    text-align: left;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.94px;
+    font-family: "Montserrat", sans-serif;
+    color: #0000;
+}
+
+.mdoalTechBox {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.modalimgBox {
+    width: 220px;
+    height: 300px;
+    margin-top: -7px;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.selectImg {
+    background: #929292;
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+    display: none;
+    visibility: none;
+}
+
+.uploadImg {
+    font-size: 70px;
+    color: #01384D;
+}
+
+.uloadImgLabel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    background: #b2b2b243;
+    cursor: pointer;
+    border: 2px solid #01374d36;
+    border-radius: 7px;
+    box-sizing: border-box;
+}
+
+.formModal {
+    flex-grow: 1;
+    display: flex;
+    justify-content: space-between;
+}
+
+.proModalBox1,
+.proModalBox2,
+.proModalBox3 {
+    width: 260px;
+}
+
+.proModalBox1 input {
+    width: 230px;
+    display: flex;
+    outline: none;
+    border: 1px solid #0000002b;
+    padding: 11px;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 14.63px;
+    font-family: "Montserrat", sans-serif;
+    margin-bottom: 20px;
+}
+
+.proModalBox1 label {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17.07px;
+    font-family: "Montserrat", sans-serif;
+    margin-bottom: 6px;
+    display: flex;
+}
+
+.proModalBox1 select {
+    border: 1px solid #0000002b;
+    width: 253px;
+    padding: 10px;
+    display: flex;
+    border-radius: 5px;
+    outline: none;
+    margin-bottom: 20px;
+}
+
+
+.proModalBox2 input {
+    width: 230px;
+    display: flex;
+    outline: none;
+    border: 1px solid #0000002b;
+    padding: 11px;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 14.63px;
+    font-family: "Montserrat", sans-serif;
+    margin-bottom: 20px;
+}
+
+.proModalBox2 label {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17.07px;
+    font-family: "Montserrat", sans-serif;
+    margin-bottom: 6px;
+    display: flex;
+}
+
+
+.proModalBox3 label {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17.07px;
+    font-family: "Montserrat", sans-serif;
+    margin-bottom: 6px;
+    display: flex;
+}
+
+.proModalBox3 textarea {
+    width: 250px;
+    box-sizing: border-box;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 14.63px;
+    font-family: "Montserrat", sans-serif;
+    padding: 10px 5px;
+    border: 1px solid #0000002b;
+    border-radius: 5px;
+}
+
+.newSwitchFlex {
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+.newSwitchFlex h4 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17.07px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.proswitch {
+    width: 40px;
+    height: 20px;
+    background-color: #12af173c;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.circle {
+    width: 14px;
+    height: 14px;
+    background-color: #12AF18;
+    border-radius: 50%;
+    margin-left: 4px;
+}
+
+.chbg {
+    background-color: #00000032;
+}
+
+.proModalAddBtn {
+    display: flex;
+    width: 250px;
+    height: 45px;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.94px;
+    font-family: "Montserrat", sans-serif;
+    background-color: #01384D;
+    color: #fff;
+    border-radius: 7px;
+    cursor: pointer;
+    border: none;
+    margin-top: 20px;
+}

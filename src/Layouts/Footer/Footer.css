@@ -1,0 +1,17 @@
+.footerSocialIcon {
+    margin-left: 38px;
+}
+
+.footerCopyrittext {
+    font-size: 14px;
+    line-height: 14px;
+    font-weight: 400;
+    color: rgba(1, 55, 77, 0.649);
+    font-family: "Josefin Sans", sans-serif;
+}
+
+.footerArrowIcon {
+    font-size: 38px;
+    color: rgba(1, 56, 77, 1);
+
+}

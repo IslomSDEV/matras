@@ -1,0 +1,75 @@
+.adminHeaderSy {
+    width: 1291px;
+    height: 81px;
+    position: fixed;
+    right: 0;
+    top: 0;
+    background-color: #01384D;
+    z-index: 100000;
+}
+
+.adminHeaderFlex {
+    padding: 5px 35px;
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.adminHeaderSerachInput {
+    display: inline-block;
+    width: 400px;
+    padding: 14px 50px 14px 20px;
+    outline: none;
+    border: none;
+    border-radius: 7px;
+    color: #01384D;
+    font-family: "Montserrat", sans-serif;
+    font-size: 13px;
+    line-height: 15.85px;
+    font-weight: 500;
+    box-sizing: border-box;
+}
+
+.adminHeaderLeft {
+    position: relative;
+}
+
+.adminHeaderSearchIcon {
+    font-size: 22px;
+    /* color: #01384D; */
+    opacity: 30%;
+    position: absolute;
+    right: 20px;
+    top: 21%;
+}
+
+.userImgBox {
+    width: 40px;
+    height: 40px;
+    background-color: #fff;
+    border-radius: 50%;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.adminHRflex {
+    display: flex;
+    align-items: center;
+}
+
+.userName {
+    font-size: 14px;
+    font-weight: 600;
+    color: #fff;
+    line-height: 17.07px;
+    font-family: "MontSerrat", sans-serif;
+}
+
+.userIconn {
+    font-size: 27px;
+}

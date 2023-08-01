@@ -1,0 +1,22 @@
+
+.deleteTabelet {
+    width: 300px;
+}
+
+.customersDelete {
+    font-size: 18px;
+    color: #D61F1F;
+}
+
+.tabledeleteBtn {
+    width: 28px;
+    height: 28px;
+    background-color: #FBE9E9;
+    border: none;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 230px;
+    cursor: pointer;
+}

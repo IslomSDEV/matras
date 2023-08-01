@@ -1,0 +1,13 @@
+.header-logo {
+    width: 100%;
+    height: 100%;
+}
+
+.headerCallIcon {
+    font-size: 20px;
+}
+
+.ByBtn:hover {
+    color: #fff;
+    background: rgba(1, 56, 77, 1);
+}

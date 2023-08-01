@@ -1,0 +1,166 @@
+.manzilModalSy {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(7, 7, 7, 0.403);
+    z-index: 100000;
+    backdrop-filter: blur(14px);
+    display: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.showMM {
+    display: flex;
+}
+
+.manzilModaldiv {
+    width: 800px;
+    height: 350px;
+    background: #fff;
+    box-sizing: border-box;
+    padding: 15px;
+    position: relative;
+}
+
+.manzilModaldiv h3 {
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: "Montserrat", sans-serif;
+}
+
+.closeBtnMn {
+    border: none;
+    background-color: #01384D;
+    color: #fff;
+    width: 27px;
+    height: 27px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    right: 0;
+}
+
+.manzilForm {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.maznilPicture {
+    width: 250px;
+}
+
+
+.uploadManzilPic {
+    display: flex;
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    cursor: pointer;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    background-color: #aeaeae4a;
+}
+
+.manzilUpImage {
+    font-size: 110px;
+    color: #00000051;
+}
+
+.manzilPic {
+    display: none;
+    visibility: hidden;
+}
+
+.inputelements {
+    height: 100%;
+    width: 240px;
+}
+
+.inputelements input {
+    width: 235px;
+    box-sizing: border-box;
+    padding: 10px 5px;
+    border: 1px solid #00000044;
+    outline: none;
+    border-radius: 7px;
+    font-size: 14px;
+    font-weight: normal;
+    font-family: "Montserrat", sans-serif;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+.inputelements label {
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Montserrat", sans-serif;
+}
+
+.inputelements textarea {
+    width: 235px;
+    height: 130px;
+    outline: none;
+    border: 1px solid #00000044;
+    border-radius: 7px;
+    margin-top: 10px;
+    box-sizing: border-box;
+    padding: 10px 7px 7px 10px;
+}
+
+.switchflex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.switchflex h3 {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: "Monserrat", sans-serif;
+}
+
+.rigth0 {
+    margin-right: 0;
+}
+
+.saqlashbtn {
+    width: 234px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    background-color: #01384D;
+    outline: none;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: "Montserrat", sans-serif;
+    color: #fff;
+    margin-top: 12px;
+    border-radius: 8px;
+}
+
+
+.slideSW {
+    transform: translateX(22px);
+}
+
+.circle {
+    transition: .3s;
+}
+
+.closeIconMn {
+    font-size: 22px;
+}
+

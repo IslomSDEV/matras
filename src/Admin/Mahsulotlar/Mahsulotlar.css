@@ -1,0 +1,71 @@
+.mahsulotlarSy {
+    width: 1220px;
+    height: 580px;
+    margin-left: 280px;
+    margin-top: 120px;
+    position: relative;
+}
+
+.addproductBtn {
+    border: none;
+    background: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 135px;
+    height: 40px;
+    background-color: #01384D;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 18.29px;
+    font-family: "Montserrat", sans-serif;
+    border-radius: 8px;
+    position: absolute;
+    bottom: -40px;
+    right: 0;
+    cursor: pointer;
+}
+#mahsulotTable {
+    width: 100%;
+    border-collapse: collapse;
+    box-sizing: border-box;
+    border: 2px solid #01374d31;
+}
+
+#mahsulotTable tr, th, td{
+    text-align: center;
+}
+
+#mahsulotTable th {
+    background-color: #01384D;
+    color: #fff;
+    margin: 0;
+    padding: 20px 0 20px 10px;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 18.29px;
+    font-family: "Montserrat", sans-serif;
+}
+
+#mahsulotTable td {
+    padding: 13px 0 13px 5px;
+    border-bottom: 2px solid #01374d31;
+}
+
+.switchtable {
+    align-items: center;
+    justify-content: center;
+} 
+
+.btnBox {
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.mahsulotBtns {
+    margin-right: -55px;
+}
+

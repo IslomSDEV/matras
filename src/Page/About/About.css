@@ -1,0 +1,21 @@
+.aboutroomone {
+    width: 100%;
+    height: 100%;
+}
+
+.twoListItem {
+    list-style-type: uppercase;
+    margin-bottom: 15px;
+}
+
+.listtwo {
+    margin-bottom: 23px;
+}
+
+.twoBottomDesc {
+    margin-bottom: 0;
+}
+
+.abouttwoFlex {
+    margin-top: 60px;
+}

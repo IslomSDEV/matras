@@ -1,0 +1,151 @@
+.toifaModalDiv {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(154, 154, 154, 0.101);
+    backdrop-filter: blur(6px);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100000000;
+}
+
+.toifaModal {
+    width: 280px;
+    height: 299px;
+    padding: 20px 22px;
+    box-sizing: border-box;
+    background-color: #fff;
+    position: relative;
+}
+
+
+.closeModalToifa {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #01384D;
+    border: none;
+    outline: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+}
+
+.toifaModalIcon {
+    color: #fff;
+    font-size: 20px;
+}
+
+.modalNametoifa {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.94px;
+    font-family: "Montserrat", sans-serif;
+    margin-top: 10px;
+}
+
+.kategoriyaNomi{
+    font-size: 14px;
+    line-height: 17.07px;
+    font-weight: 400;
+    font-family: "Montserrat", sans-serif;
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.toifaModalInput {
+    width: 220px;
+    font-size: 12px;
+    font-weight: 500;
+    font-family: "MontSerrat", sans-serif;
+    line-height: 14.63px;
+    padding: 10px 5px 10px 10px;
+    border: 1px solid #00000040;
+    border-radius: 5px;
+}
+
+.toifaModalSwicthbox {
+    width: 230px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.lefttextToifa {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17.07px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.toifaswitch {
+    width: 40px;
+    height: 20px;
+    background-color: #CCD7DB;
+    border-radius: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    cursor: pointer;
+}
+
+.toifacircle {
+    transition: .3s;
+    width: 14px;
+    height: 14px;
+    background-color: #12AF18;
+    border-radius: 50%;
+    margin-left: 3px;
+}
+
+.toifaModalAddBtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 232px;
+    height: 45px;
+    margin: 0 auto;
+    border: none;
+    background-color: #01384D;
+    color: #fff;
+    border-radius: 7px;
+    font-size: 14px;
+    line-height: 17.07px;
+    font-weight: 600;
+    font-family: "Montserrat", sans-serif;
+    margin-top: 40px;
+    cursor: pointer;
+}
+
+.moveModalSwitch {
+    transform: translateX(20px);
+}
+
+.changeModalSwitchBg {
+    background-color: #D0EFD1;  
+}
+
+.showTofiaModal {
+    display: flex;
+}
+
+.md {
+    display: none;
+}
+
+.adder {
+    display: none;
+}
+
+.editsh {
+    display: flex;
+}

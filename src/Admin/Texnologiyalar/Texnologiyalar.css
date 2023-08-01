@@ -1,0 +1,73 @@
+.texnologiyaSy {
+    width: 1220px;
+    height: 580px;
+    margin-left: 280px;
+    margin-top: 120px;
+    position: relative;
+}
+
+.addtexnologiyaBtn {
+    border: none;
+    background: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 135px;
+    height: 40px;
+    background-color: #01384D;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 18.29px;
+    font-family: "Montserrat", sans-serif;
+    border-radius: 8px;
+    position: absolute;
+    bottom: -40px;
+    right: 0;
+    cursor: pointer;
+}
+
+#texnologiyaTable {
+    width: 100%;
+    border-collapse: collapse;
+    box-sizing: border-box;
+    border: 2px solid #01374d31;
+}
+
+#texnologiyaTable tr, th, td{
+    text-align: center;
+}
+
+#texnologiyaTable th {
+    background-color: #01384D;
+    color: #fff;
+    margin: 0;
+    padding: 20px 0 20px 10px;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 18.29px;
+    font-family: "Montserrat", sans-serif;
+}
+
+#texnologiyaTable td {
+    padding: 13px 0 13px 5px;
+    border-bottom: 2px solid #01374d31;
+}
+
+.texnologyBtn {
+    width: 300px;
+    transform: translateX(324px);
+}
+
+.dsds {
+    width: 650px;
+}
+
+.collapseText {
+    display: inline-block;
+    width: 110px;
+    margin: 0 auto;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}

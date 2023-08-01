@@ -1,0 +1,99 @@
+.successModalDiv {
+    top: 0;
+    left: 0;
+    z-index: 99;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(10px);
+    background-color: rgba(0, 0, 0, 0.299);
+}
+
+.successModals {
+    width: 440px;
+    height: 610px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px 5px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.successmodalTitle {
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    line-height: 40px;
+    font-weight: 700;
+    color: #01384D;
+    font-family: "Josefin Sans";
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.succesPicBox {
+    width: 330px;
+    height: 300px;
+    margin-bottom: 15px;
+}
+
+.succesImage {
+    width: 100%;
+    height: 100%;
+}
+
+
+.successText {
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+    line-height: 16px;
+    color: #01384D;
+    font-weight: 400;
+    font-family: "Josefin Sans", sans-serif;
+    margin-top: 18px;
+    margin-bottom: 10px;
+}
+
+.successBtnSend {
+    display: flex;
+    width: 380px;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    line-height: 18px;
+    font-weight: 600;
+    font-family: "Josefin Sans", sans-serif;
+    background-color: #01384D;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 28px;
+}
+
+.successCloseBtn {
+    border: none;
+    outline: none;
+    background: none;
+    color: #01384D;
+    cursor: pointer;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+.succesCloseBtn {
+    font-size: 29px;
+}
+
+.showSuccessModal {
+    display: flex;
+}

@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "title": "Barchasi",
+        "model": "all"
+    },{
+        "id": 2,
+        "title":"Model A+",
+        "model": "A+"
+    },
+    {
+        "id": 3,
+        "title":"Model B+",
+        "model": "B+"
+    },{
+        "id": 4,
+        "title":"Model C",
+        "model": "C"
+    },{
+        "id": 5,
+        "title":"Model C+",
+        "model": "C+"
+    },{
+        "id": 6,
+        "title":"Model D",
+        "model": "D"
+    },{
+        "id": 7,
+        "title":"Model Yevro",
+        "model": "yevro"
+    },{
+        "id": 8,
+        "title":"Yangi tovarlar",
+        "model": "new"
+    },{
+        "id": 9,
+        "title":"Model A",
+        "model": "A"
+    }
+]

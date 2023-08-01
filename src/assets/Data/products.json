@@ -1,0 +1,740 @@
+[
+  {
+    "id": 1,
+    "product_name": "Ortopedik Eko matras",
+    "weight": 150,
+    "kafolat": 3,
+    "olcham": "200x120x40",
+    "sigimi": 2,
+    "desc": "Modelning asosiy xususiyati - mustaqil prujinalar blokidir. Mustaqil yordam tufayli umurtqa pog'onasi uyqu vaqtida anatomik jihatdan to'g'ri holatda bo'ladi, bu ertalab uyqu sifatini va umumiy farovonlikni yaxshilaydi.Bardoshli namat anchagina bardoshli, bu mahsulotning ishlash muddatini sezilarli darajada uzaytiradi. Elastik ko'pik qatlami uxlab yotgan odam tanasining konturiga rioya qilgan holda, matrasning anatomik xususiyatlarini yaxshilaydi. Siz yaxshi uxlaysiz va ertalab o'zingizni yaxshi his qilasiz!",
+    "price": "1 699 999",
+    "pictures": {
+      "image_1": "https://storage.kun.uz/source/9/0YZvahqPEtm0wLRX5wyFt9biwV9spvXN.jpg",
+      "image_2": "https://cdn.matras.ru/upload/catalog/middle/matras-Stearns--Foster-Estate-Cushion.jpg",
+      "image_3": "https://matras.center/3844-home_default/matras-dynasty-styuart-royal-come-for.jpg"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "A+"
+  },{
+    "id": 2,
+    "product_name": "Anatomik matras",
+    "weight": 140,
+    "kafolat": 3,
+    "olcham": "200x120x40",
+    "sigimi": 3,
+    "desc": "Anatomik to'shak matras evolyutsiyasi ning eng yuqori bosqichi hisoblanadi. Aynan shu xilma-xillik qulaylik, ishonchlilik, sog'liq uchun foyda va boshqa muhim mezonlarga ko'ra eng yuqori talablarga javob beradi. Luxmatras kompaniyasi Toshkent shahridagi anatomik matraslarni ishlab chiqaruvchidan buyurtma qilishni taklif qiladi. Biz yuqori sifatli mahsulotlarni sotamiz va mijozlar uchun eng qulay shartlarda keng qamrovli xizmat ko'rsatamiz.",
+    "price": "1 699 999",
+    "pictures": {
+      "image_1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2oNkNM99WzHdqYCRYDE5A8STt6j9noJC4pyN_WKxG5lEtllsPDBO-GvUNThQRcsm3Toc&usqp=CAU",
+      "image_2": "https://novosib.stolplit.ru/upload/resize_cache/iblock/791/7425sl8u1cbnrjj32b7qxd0agskh1mx6/934_700_0/i0000310661-detail.jpeg",
+      "image_3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB8IOHg3_gWL08607DUfIyEYlUtHiPgj3qV_Zcr3EGXBJLFF0XYfwp2Kf9ufVnf8WCYLA&usqp=CAU"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "A+"
+  },{
+    "id": 3,
+    "product_name": "Bolalar uchun matraslar",
+    "weight": 120,
+    "kafolat": 3,
+    "olcham": "200x100x50",
+    "sigimi": 4,
+    "desc": "Kompaniyamizning Toshkent shahridagi bolalar uchun matraslarga buyurtma berish taklifi nafaqat mahsulotlarning benuqson sifati. Biz siz uchun - g'amxo'r ota-onalar uchun bunday mahsulotlarni sotib olishdan maksimal foyda keltiramiz. Bolalar matrasini sotib olish uchun bizga murojaat qilib, siz buyurtmangizni eng qisqa vaqt ichida (uch kungacha) olish imkoniyatiga ega bo'lasiz. Biz bolalar matraslarini bepul yetkazib beramiz va doimiy mijozlarga chegirmalar beramiz.",
+    "price": "600 000",
+    "pictures": {
+      "image_1": "https://zoodmall.com/cdn-cgi/image/w=500,fit=contain,f=auto/https://images.zoodmall.com/web/product/picture/59/27162959/167792718389848000794.jpeg",
+      "image_2": "https://askona.uz/upload/webp/resize_cache/iblock/511/eqdvfvqunuulnx2djyd19sucbkk5dphv/q100/249_139_1/b0d95c22b4e7737087d586a9bd5d28e7.webp",
+      "image_3": "https://askona.uz/upload/webp/resize_cache/iblock/4e6/fsq25v1ey7qy3vvmyrh4frdejr443vem/q100/249_139_1/27d3cfdf25212d966b0aaf960ca7bae3.webp"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "A+"
+  },{
+    "id": 4,
+    "product_name": "Matraslar uchun qoplamalar",
+    "weight": 20,
+    "kafolat": 3,
+    "olcham": "220x140x60",
+    "sigimi": 3,
+    "desc": "Benuqson sifat, matras topperlarining katta tanlovi va kompaniyamiz mutaxassislarining bepul maslahatlari Luxmatrasdan xarid qilishning yagona afzalliklari emas. Toshkent yoki O‘zbekistonning boshqa shaharlarida to‘shakka buyurtma berish uchun bizga murojaat qilsangiz, siz quyidagi imkoniyatlarni ham ochasiz:",
+    "price": "500 000",
+    "pictures": {
+      "image_1": "https://www.mebel-online.ru/image/cache/data/SkySleep/_Topper/Topper-5-1600x1200.jpg",
+      "image_2": "https://media.hespo.hr/us2vz7cbaq0910lgycmjp56gve27.jpg?v=1633989275",
+      "image_3": "https://images-na.ssl-images-amazon.com/images/I/6151G3twq5L.jpg"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "A+"
+  },{
+    "id": 5,
+    "product_name": "Toppers",
+    "weight": 150,
+    "kafolat": 3,
+    "olcham": "200x120x40",
+    "sigimi": 3,
+    "desc": "Luxmatras ishlab chiqaruvchisidan Toshkent shahridagi matras topperslarini xarid qilish taklifi xaridorlar uchun keng imkoniyat va istiqbollar ochmoqda. Biz juda yuqori sifatli mahsulotlarni sotamiz va uzoq muddatga kafolat beramiz. Assortimentga turli balandlikdagi toppers kiradi. Mahsulotlar foydalanish qulayligi, samaradorligi, ekologik xavfsizligi va chidamliligi bilan ajralib turadi. Bularning barchasi O'zbekiston uchun matras topperlarining maqbul narxlari, shuningdek, kompaniyamizning tajribali maslahatchilarining ko'magi bilan birlashtirilgan.",
+    "price": "1 699 999",
+    "pictures": {
+      "image_1": "https://luxmatras.uz/thumb/2/2flXd-UHvKRJYFz0ND0K1Q/400r400/d/photo_2021-01-24_13-28-31.jpg",
+      "image_2": "https://www.gbfoamdirect.co.uk/wp-content/uploads/2019/10/mattress-topper.jpg",
+      "image_3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZLC_1u4HRs3YJkfIbSTV4_JXFsVP2ci6bRhP3KBxN2ZJ0rLBXjqCkEQK310xYOkUnj38&usqp=CAU"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "A+"
+  },{
+    "id": 6,
+    "product_name": "Bolalar uchun matraslar",
+    "weight": 150,
+    "kafolat": 3,
+    "olcham": "200x120x40",
+    "sigimi": 2,
+    "desc": "Kompaniyamizning Toshkent shahridagi bolalar uchun matraslarga buyurtma berish taklifi nafaqat mahsulotlarning benuqson sifati. Biz siz uchun - g'amxo'r ota-onalar uchun bunday mahsulotlarni sotib olishdan maksimal foyda keltiramiz. Bolalar matrasini sotib olish uchun bizga murojaat qilib, siz buyurtmangizni eng qisqa vaqt ichida (uch kungacha) olish imkoniyatiga ega bo'lasiz. Biz bolalar matraslarini bepul yetkazib beramiz va doimiy mijozlarga chegirmalar beramiz.",
+    "price": "600 000",
+    "pictures": {
+      "image_1": "https://zoodmall.com/cdn-cgi/image/w=500,fit=contain,f=auto/https://images.zoodmall.com/web/product/picture/59/27162959/167792718389848000794.jpeg",
+      "image_2": "https://askona.uz/upload/webp/resize_cache/iblock/511/eqdvfvqunuulnx2djyd19sucbkk5dphv/q100/249_139_1/b0d95c22b4e7737087d586a9bd5d28e7.webp",
+      "image_3": "https://askona.uz/upload/webp/resize_cache/iblock/4e6/fsq25v1ey7qy3vvmyrh4frdejr443vem/q100/249_139_1/27d3cfdf25212d966b0aaf960ca7bae3.webp"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "B+"
+  },{
+    "id": 7,
+    "product_name": "Matras Nur",
+    "weight": 50,
+    "kafolat": 3,
+    "olcham": "80x200",
+    "sigimi": 2,
+    "desc": "Engil - kichik maksimal yukga ega byudjetli, bir tomonlama, bahorsiz, anatomik matraslar qatori. To'shakning o'ziga xos xususiyati narx bo'lib, bu analoglardan pastroq balandlikda - 20 sm, bu esa o'z navbatida yotoqdagi maksimal yukni 100 kg gacha kamaytiradi.Model kundalik foydalanish uchun ham, vaqtinchalik, mamlakat varianti sifatida ham mos keladi. Zamonaviy ko'pikli material to'shakka bouncer beradi va orqa bosimni engillashtiradi, bu sizga qulay uxlash imkonini beradi. Tashish qulayligi uchun matras o'ralgan va changyutgich bilan o'ralgan.",
+    "price": "1 440 000",
+    "pictures": {
+      "image_1": "https://storage.kun.uz/source/9/0YZvahqPEtm0wLRX5wyFt9biwV9spvXN.jpg",
+      "image_2": "https://sleepvip.uz/thumb/2/Pzc96rykUexQu5u9jyxHVg/120r120/d/matras_light_rakurs_2.jpg",
+      "image_3": "https://sleepvip.uz/thumb/2/ZCxugdkPy5cFZWleLDz_qw/750r750/d/light_matress_full.jpg"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "B+"
+  },{
+    "id": 8,
+    "product_name": "Gibrid matras",
+    "weight": 60,
+    "kafolat": 3,
+    "olcham": "100x120x40",
+    "sigimi": 2,
+    "desc": "Bir tomonlama gibrid matras SLEEVIP assortimentidagi yagona prujinali matrasdir. Ko'pikning ko'tarilgan konfor qatlami misli ko'rilmagan vaznsizlik tuyg'usini beradi va buloqlarning eng zich joylashuviga ega bo'lgan bahor bloki (har bir to'shakda 420 ta buloq) umurtqa pog'onasini ishonchli qo'llab-quvvatlaydi va ortib borayotgan yuklarga bardosh beradi. Noyob bahor bloklari dizayni ularni bir-biriga iloji boricha yaqinroq joylashtirish imkonini beradi, bu esa avtonom ishlashga va tanangizga maqsadli yordam ko'rsatishga imkon beradi.",
+    "price": "1 920 000",
+    "pictures": {
+      "image_1": "https://sleepvip.uz/thumb/2/NLAmSVn2WHPQdkXjH2MvfA/750r750/d/hybrid_full.jpg",
+      "image_2": "https://sleepvip.uz/thumb/2/5G9XLtqlvOPhQrzUzKBeLQ/750r750/d/green_inside.jpg",
+      "image_3": "https://sleepvip.uz/thumb/2/PuhU6a0FcjlC3znXnzhdRA/750r750/d/matras_gibrid_rakurs_2.jpg"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "B+"
+  },{
+    "id": 9,
+    "product_name": "Matras Original",
+    "weight": 150,
+    "kafolat": 3,
+    "olcham": "150x200",
+    "sigimi": 2,
+    "desc": "Original - har bir nuqtada maksimal tanani qo'llab-quvvatlash. Matras moslashuvchan effektga ega yuqori zichlikdagi, nafas oladigan ko'piklarning noyob kombinatsiyasi tufayli yuqori darajadagi tuyg'u beradi.Uch qatlamning mukammal muvozanatli kombinatsiyasi ajoyib qo'llab-quvvatlashni ta'minlaydi, bu esa uyqu vaqtida pozitsiyalarni o'zgartirishni osonlashtiradi, shuningdek, umurtqa pog'onasini tun bo'yi to'g'ri holatda ishonchli qo'llab-quvvatlaydi. Sarkma yoki hamak ta'siri yo'q.",
+    "price": "3 750 000 ",
+    "pictures": {
+      "image_1": "https://sleepvip.uz/thumb/2/22L7xXqw_594Poq9mbvkUw/750r750/d/red.jpg",
+      "image_2": "https://sleepvip.uz/thumb/2/TIEcbuRXQ2qlg5ND5kkAew/750r750/d/original_photo_inside.jpg",
+      "image_3": "https://sleepvip.uz/thumb/2/2JiXYktn1hIusYZx6KsY_A/750r750/d/original_photo_sloi.jpg"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "B+"
+  },{
+    "id": 10,
+    "product_name": "Matras memory",
+    "weight": 150,
+    "kafolat": 3,
+    "olcham": "200x120x40",
+    "sigimi": 2,
+    "desc": "Memory-In - bu yangi darajadagi ta'til! Matrasning yangi,aqlli qatlami uyqu vaqtida tanani o‘rab oladi va o‘ziga xos qulaylik hissi yaratadi.Yuqori qatlam tanaga to'liq bo'shashishga yordam beradi, har bir hujayra butunlay bo'shashganda, vaznsizlik holatiga tushadi. Xotira ning maksimal ta'siri tananing konturlarini takrorlaydigan materiallarning qalinligi oshishi bilan ta'minlanadi. Bu tun davomida o'zingizni qulay his qilishingizni ta'minlaydi, aylanishlar sonini kamaytiradi va uxlashni yaxshilaydi.",
+    "price": "2 160 000",
+    "pictures": {
+      "image_1": "https://storage.kun.uz/source/9/0YZvahqPEtm0wLRX5wyFt9biwV9spvXN.jpg",
+      "image_2": "https://cdn.matras.ru/upload/catalog/middle/matras-Stearns--Foster-Estate-Cushion.jpg",
+      "image_3": "https://matras.center/3844-home_default/matras-dynasty-styuart-royal-come-for.jpg"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "B+"
+  },{
+    "id": 11,
+    "product_name": "Ortopedik Eko matras",
+    "weight": 70,
+    "kafolat": 3,
+    "olcham": "200x120",
+    "sigimi": 2,
+    "desc": "Modelning asosiy xususiyati - mustaqil prujinalar blokidir. Mustaqil yordam tufayli umurtqa pog'onasi uyqu vaqtida anatomik jihatdan to'g'ri holatda bo'ladi, bu ertalab uyqu sifatini va umumiy farovonlikni yaxshilaydi.Bardoshli namat anchagina bardoshli, bu mahsulotning ishlash muddatini sezilarli darajada uzaytiradi. Elastik ko'pik qatlami uxlab yotgan odam tanasining konturiga rioya qilgan holda, matrasning anatomik xususiyatlarini yaxshilaydi. Siz yaxshi uxlaysiz va ertalab o'zingizni yaxshi his qilasiz!",
+    "price": "1 699 999",
+    "pictures": {
+      "image_1": "https://sleepvip.uz/thumb/2/XRzPTpEXehroe8Flvh74pg/750r750/d/matress_sleepvip_memory_in_full.jpg",
+      "image_2": "https://sleepvip.uz/thumb/2/y3Peyy2loiOeu3PecEfOhA/750r750/d/matress_sleepvip_memory_in.jpg",
+      "image_3": "https://sleepvip.uz/thumb/2/H_ziLn8vjalkp5uNozJGTA/750r750/d/matras_memory_rakurs_2.jpg"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "B+"
+  },{
+    "id": 12,
+    "product_name": "Bolalar uchun matraslar",
+    "weight": 120,
+    "kafolat": 3,
+    "olcham": "200x100x50",
+    "sigimi": 4,
+    "desc": "Kompaniyamizning Toshkent shahridagi bolalar uchun matraslarga buyurtma berish taklifi nafaqat mahsulotlarning benuqson sifati. Biz siz uchun - g'amxo'r ota-onalar uchun bunday mahsulotlarni sotib olishdan maksimal foyda keltiramiz. Bolalar matrasini sotib olish uchun bizga murojaat qilib, siz buyurtmangizni eng qisqa vaqt ichida (uch kungacha) olish imkoniyatiga ega bo'lasiz. Biz bolalar matraslarini bepul yetkazib beramiz va doimiy mijozlarga chegirmalar beramiz.",
+    "price": "600 000",
+    "pictures": {
+      "image_1": "https://zoodmall.com/cdn-cgi/image/w=500,fit=contain,f=auto/https://images.zoodmall.com/web/product/picture/59/27162959/167792718389848000794.jpeg",
+      "image_2": "https://askona.uz/upload/webp/resize_cache/iblock/511/eqdvfvqunuulnx2djyd19sucbkk5dphv/q100/249_139_1/b0d95c22b4e7737087d586a9bd5d28e7.webp",
+      "image_3": "https://askona.uz/upload/webp/resize_cache/iblock/4e6/fsq25v1ey7qy3vvmyrh4frdejr443vem/q100/249_139_1/27d3cfdf25212d966b0aaf960ca7bae3.webp"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "C"
+  },{
+    "id": 13,
+    "product_name": "Toppers",
+    "weight": 150,
+    "kafolat": 3,
+    "olcham": "200x120x40",
+    "sigimi": 3,
+    "desc": "Luxmatras ishlab chiqaruvchisidan Toshkent shahridagi matras topperslarini xarid qilish taklifi xaridorlar uchun keng imkoniyat va istiqbollar ochmoqda. Biz juda yuqori sifatli mahsulotlarni sotamiz va uzoq muddatga kafolat beramiz. Assortimentga turli balandlikdagi toppers kiradi. Mahsulotlar foydalanish qulayligi, samaradorligi, ekologik xavfsizligi va chidamliligi bilan ajralib turadi. Bularning barchasi O'zbekiston uchun matras topperlarining maqbul narxlari, shuningdek, kompaniyamizning tajribali maslahatchilarining ko'magi bilan birlashtirilgan.",
+    "price": "1 699 999",
+    "pictures": {
+      "image_1": "https://luxmatras.uz/thumb/2/2flXd-UHvKRJYFz0ND0K1Q/400r400/d/photo_2021-01-24_13-28-31.jpg",
+      "image_2": "https://www.gbfoamdirect.co.uk/wp-content/uploads/2019/10/mattress-topper.jpg",
+      "image_3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZLC_1u4HRs3YJkfIbSTV4_JXFsVP2ci6bRhP3KBxN2ZJ0rLBXjqCkEQK310xYOkUnj38&usqp=CAU"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "C"
+  },{
+    "id": 14,
+    "product_name": "Anatomik matras",
+    "weight": 140,
+    "kafolat": 3,
+    "olcham": "200x120x40",
+    "sigimi": 3,
+    "desc": "Anatomik to'shak matras evolyutsiyasi ning eng yuqori bosqichi hisoblanadi. Aynan shu xilma-xillik qulaylik, ishonchlilik, sog'liq uchun foyda va boshqa muhim mezonlarga ko'ra eng yuqori talablarga javob beradi. Luxmatras kompaniyasi Toshkent shahridagi anatomik matraslarni ishlab chiqaruvchidan buyurtma qilishni taklif qiladi. Biz yuqori sifatli mahsulotlarni sotamiz va mijozlar uchun eng qulay shartlarda keng qamrovli xizmat ko'rsatamiz.",
+    "price": "1 699 999",
+    "pictures": {
+      "image_1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2oNkNM99WzHdqYCRYDE5A8STt6j9noJC4pyN_WKxG5lEtllsPDBO-GvUNThQRcsm3Toc&usqp=CAU",
+      "image_2": "https://novosib.stolplit.ru/upload/resize_cache/iblock/791/7425sl8u1cbnrjj32b7qxd0agskh1mx6/934_700_0/i0000310661-detail.jpeg",
+      "image_3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB8IOHg3_gWL08607DUfIyEYlUtHiPgj3qV_Zcr3EGXBJLFF0XYfwp2Kf9ufVnf8WCYLA&usqp=CAU"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "C"
+  },{
+    "id": 15,
+    "product_name": "Ortopedik Eko matras",
+    "weight": 150,
+    "kafolat": 3,
+    "olcham": "200x120x40",
+    "sigimi": 2,
+    "desc": "Modelning asosiy xususiyati - mustaqil prujinalar blokidir. Mustaqil yordam tufayli umurtqa pog'onasi uyqu vaqtida anatomik jihatdan to'g'ri holatda bo'ladi, bu ertalab uyqu sifatini va umumiy farovonlikni yaxshilaydi.Bardoshli namat anchagina bardoshli, bu mahsulotning ishlash muddatini sezilarli darajada uzaytiradi. Elastik ko'pik qatlami uxlab yotgan odam tanasining konturiga rioya qilgan holda, matrasning anatomik xususiyatlarini yaxshilaydi. Siz yaxshi uxlaysiz va ertalab o'zingizni yaxshi his qilasiz!",
+    "price": "1 699 999",
+    "pictures": {
+      "image_1": "https://storage.kun.uz/source/9/0YZvahqPEtm0wLRX5wyFt9biwV9spvXN.jpg",
+      "image_2": "https://cdn.matras.ru/upload/catalog/middle/matras-Stearns--Foster-Estate-Cushion.jpg",
+      "image_3": "https://matras.center/3844-home_default/matras-dynasty-styuart-royal-come-for.jpg"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "C"
+  },{
+    "id": 16,
+    "product_name": "Gibrid matras",
+    "weight": 60,
+    "kafolat": 3,
+    "olcham": "100x120x40",
+    "sigimi": 2,
+    "desc": "Bir tomonlama gibrid matras SLEEVIP assortimentidagi yagona prujinali matrasdir. Ko'pikning ko'tarilgan konfor qatlami misli ko'rilmagan vaznsizlik tuyg'usini beradi va buloqlarning eng zich joylashuviga ega bo'lgan bahor bloki (har bir to'shakda 420 ta buloq) umurtqa pog'onasini ishonchli qo'llab-quvvatlaydi va ortib borayotgan yuklarga bardosh beradi. Noyob bahor bloklari dizayni ularni bir-biriga iloji boricha yaqinroq joylashtirish imkonini beradi, bu esa avtonom ishlashga va tanangizga maqsadli yordam ko'rsatishga imkon beradi.",
+    "price": "1 920 000",
+    "pictures": {
+      "image_1": "https://sleepvip.uz/thumb/2/NLAmSVn2WHPQdkXjH2MvfA/750r750/d/hybrid_full.jpg",
+      "image_2": "https://sleepvip.uz/thumb/2/5G9XLtqlvOPhQrzUzKBeLQ/750r750/d/green_inside.jpg",
+      "image_3": "https://sleepvip.uz/thumb/2/PuhU6a0FcjlC3znXnzhdRA/750r750/d/matras_gibrid_rakurs_2.jpg"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "C"
+  },{
+    "id": 17,
+    "product_name": "Matras memory",
+    "weight": 150,
+    "kafolat": 3,
+    "olcham": "200x120x40",
+    "sigimi": 2,
+    "desc": "Memory-In - bu yangi darajadagi ta'til! Matrasning yangi,aqlli qatlami uyqu vaqtida tanani o‘rab oladi va o‘ziga xos qulaylik hissi yaratadi.Yuqori qatlam tanaga to'liq bo'shashishga yordam beradi, har bir hujayra butunlay bo'shashganda, vaznsizlik holatiga tushadi. Xotira ning maksimal ta'siri tananing konturlarini takrorlaydigan materiallarning qalinligi oshishi bilan ta'minlanadi. Bu tun davomida o'zingizni qulay his qilishingizni ta'minlaydi, aylanishlar sonini kamaytiradi va uxlashni yaxshilaydi.",
+    "price": "2 160 000",
+    "pictures": {
+      "image_1": "https://storage.kun.uz/source/9/0YZvahqPEtm0wLRX5wyFt9biwV9spvXN.jpg",
+      "image_2": "https://cdn.matras.ru/upload/catalog/middle/matras-Stearns--Foster-Estate-Cushion.jpg",
+      "image_3": "https://matras.center/3844-home_default/matras-dynasty-styuart-royal-come-for.jpg"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "C"
+  },{
+    "id": 18,
+    "product_name": "Premier matrasi",
+    "weight": 80,
+    "kafolat": 3,
+    "olcham": "200x100x40",
+    "sigimi": 2,
+    "desc": "Premier - bu sifat, qulaylik va o'ziga xoslikning eng yaxshi uyg'unligini namoyish qiluvchi premium matraslar qatori. Anatomik umurtqa pog'onasini qo'llab-quvvatlash tizimi matrasga tananing og'irligi va konturiga nuqta bilan javob berishga, yukni to'g'ri taqsimlashga, uyqu paytida mushaklarni tushirishga imkon beradi.To'shak maxsus texnologiya yordamida ishlab chiqariladi - har mavsumda aylantirish kerak emas.",
+    "price": "2 560 000",
+    "pictures": {
+      "image_1": "https://sleepvip.uz/thumb/2/fJCvC-hnNziRiJcZsDG16A/750r750/d/matras_premier_inside.jpg",
+      "image_2": "https://sleepvip.uz/thumb/2/bMc6i2AkXRh7kDNeAYC_PQ/750r750/d/matress_sleepvip_memory_in_top.jpg",
+      "image_3": "https://sleepvip.uz/thumb/2/3aSe0JqK37F38ffHBwYkrQ/750r750/d/matras_premier_photo.jpg"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "C+"
+  },{
+    "id": 19,
+    "product_name": "Chaqaloqlar matrasi",
+    "weight": 150,
+    "kafolat": 3,
+    "olcham": "170x100x40",
+    "sigimi": 2,
+    "desc": "Baby matraslari seriyasi etakchi pediatr va ortopedlar bilan hamkorlikda ishlab chiqilgan - 0 yoshdan 8 yoshgacha bo'lgan bolalar uchun qattiqligi yuqori bo'lgan nafas oladigan ekologik toza bahorsiz matraslar. Elastik tayanch bolaning vazniga moslashadi va butun xizmat muddati davomida o'zining ortopedik xususiyatlarini saqlab qoladi, bu esa chaqaloq skeletining to'g'ri o'sishi va rivojlanishiga yordam beradi.Ko'pikli plomba tufayli ichkarida zararkunandalar ko'payishi uchun bo'sh joy yo'q",
+    "price": "540 000",
+    "pictures": {
+      "image_1": "https://sleepvip.uz/thumb/2/4T8byrcNMRJXaGaGIiSDeA/750r750/d/sleepvip_baby2.jpg",
+      "image_2": "https://sleepvip.uz/thumb/2/DeAYeKY3X1h9miM_rseAAw/750r750/d/sleepvip_baby_inside.jpg",
+      "image_3": "https://sleepvip.uz/thumb/2/ynsAd8WH-SIXQtgj4-kX-Q/750r750/d/sleepvip_baby_outside.jpg"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "C+"
+  },{
+    "id": 20,
+    "product_name": "Matras Basic Optima Hard",
+    "weight": 80,
+    "kafolat": 3,
+    "olcham": "80x200x40",
+    "sigimi": 2,
+    "desc": "Optima to'plamidagi Hard matras  universal va ishonchli model bo'lib, u qulaylikni qadrlaydigan va o'z sog'lig'i va yaqinlarining sog'lig'i haqida qayg'uradigan barchaga mos keladi.Turli diametrli simdan yasalgan 5 zonali prujinali blok tananing har bir qismini alohida qo'llab-quvvatlaydi: bosh, elka, orqa, son, oyoq, umurtqa pog'onasidagi stressni va mushaklar va bo'g'imlarning kuchlanishini engillashtiradi.",
+    "price": "3 869 000",
+    "pictures": {
+      "image_1": "https://askona.uz/upload/webp/resize_cache/iblock/fc7/vx2c8nk16g0ldnqn4lepjgb9hco9r1v6/q90/1350_900_1/267c4e2875e181ef196b4fd56c8a807d.webp",
+      "image_2": "https://askona.uz/upload/webp/resize_cache/iblock/d03/o0ikndsf7tdt2z5ne6q5r1og1ccq541y/q90/1350_900_1/81e3a47b23844bbebccd116b9a4a7e0d.webp",
+      "image_3": "https://askona.uz/upload/webp/resize_cache/iblock/f90/5eqqgjm8ihhk1ffvw4y6uo05z3udhctz/q90/1350_900_1/c13983558ac6dfb6b3ca10720116dad7.webp"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "C+"
+  },{
+    "id": 21,
+    "product_name": "Matras promo Comfort Plus",
+    "weight": 90,
+    "kafolat": 3,
+    "olcham": "200x180x40",
+    "sigimi": 2,
+    "desc": "Modelning asosiy xususiyati mustaqil buloqlar blokidir. Mustaqil yordam tufayli umurtqa pog'onasi uyqu vaqtida anatomik jihatdan to'g'ri holatda bo'ladi, bu ertalab uyqu sifatini va umumiy farovonlikni yaxshilaydi.Bardoshli namat aşınmaya bardoshli, bu mahsulotning ishlash muddatini sezilarli darajada uzaytiradi. Elastik ko'pik qatlami uxlab yotgan odam tanasining konturiga rioya qilgan holda, matrasning anatomik xususiyatlarini yaxshilaydi. Siz yaxshi uxlaysiz va ertalab o'zingizni yaxshi his qilasiz!",
+    "price": "2 450 000",
+    "pictures": {
+      "image_1": "https://askona.uz/upload/webp/resize_cache/iblock/257/98zzzemu2eyfyycvog1ongeighjmq73h/q90/1350_900_1/promo-comfort-plus.webp",
+      "image_2": "https://askona.uz/upload/webp/resize_cache/iblock/855/krz0ah0wvfygjt1nkmzng2ibafo5hni5/q90/1350_900_1/ceefef628e40e8c9bd39a8bf0ed22f9c.webp",
+      "image_3": "https://askona.uz/upload/webp/resize_cache/iblock/aba/et2fwfkfn8ny1lfa1e1l59fgkiba3gwj/q90/1350_900_1/71a19416a05d2a492ccd2d81710d4714.webp"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "C+"
+  },{
+    "id": 22,
+    "product_name": "Serta Astoria matrasi",
+    "weight": 90,
+    "kafolat": 3,
+    "olcham": "240x100x70",
+    "sigimi": 2,
+    "desc": "Ikki tomonlama anatomik matras  Astoria  - o'rtacha qattiqlik - ajoyib qulaylik va sog'lom, sog'lom uyqu uchun. muntazam intensiv yuklarga bardosh beradi. 30 yil uzaytirilgan kafolat",
+    "price": "6 790 700",
+    "pictures": {
+      "image_1": "https://storage.kun.uz/source/9/0YZvahqPEtm0wLRX5wyFt9biwV9spvXN.jpg",
+      "image_2": "https://cdn.matras.ru/upload/catalog/middle/matras-Stearns--Foster-Estate-Cushion.jpg",
+      "image_3": "https://matras.center/3844-home_default/matras-dynasty-styuart-royal-come-for.jpg"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "C+"
+  },{
+    "id": 23,
+    "product_name": "Matras Klassik Active Cocos",
+    "weight": 70,
+    "kafolat": 3,
+    "olcham": "200x120x40",
+    "sigimi": 2,
+    "desc": "qulay va ishonchli model bo'lib, u qulaylikni qadrlaydigan va yaxshi dam olish haqida ko'p narsalarni biladigan har bir kishiga mos keladi. Noyob patentlangan bahor formulasi Hour Glass 7-zone Hourglass matrasga xuddi shu sinfdagi matraslarga qaraganda 5 barobar ko'proq yukni bardosh berishga imkon beradi. Innovatsion prujina bloki maxsus o'rnatilgan mato sumkalaridan iborat bo'lib, ular maxsus shakldagi buloqlarni - qum soati shaklini o'z ichiga oladi, bu matrasni bir necha darajadagi egiluvchanlikni ta'minlash va uni buloqlarning deformatsiyasidan saqlash imkonini beradi.",
+    "price": "5 650 150",
+    "pictures": {
+      "image_1": "https://askona.uz/upload/webp/resize_cache/iblock/cda/z1ayea2xcm89q0wxe2gkbxkmbg1euldg/q90/1350_900_1/4dd3560976103811bd02d311b95932bf.webp",
+      "image_2": "https://askona.uz/upload/webp/resize_cache/iblock/b0e/05z31w7jrtec2xr3gzlkg7jumshycsx5/q90/1350_900_1/537385fb0774fb8bea83f1592ad6d6f7.webp",
+      "image_3": "https://askona.uz/upload/webp/resize_cache/iblock/f39/t9dkok9cg2lqowa6qv6z396f6g49tzs2/q90/1350_900_1/06dd8fb898b0ed93288996d1bba8d85b.webp"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "C+"
+  },{
+    "id": 24,
+    "product_name": "Matras Basic Optima Hard",
+    "weight": 150,
+    "kafolat": 3,
+    "olcham": "180x120x40",
+    "sigimi": 2,
+    "desc": "universal va ishonchli model bo'lib, u qulaylikni qadrlaydigan va o'z sog'lig'i va yaqinlarining sog'lig'i haqida qayg'uradigan har bir kishi uchun mutlaqo mos keladi.Turli diametrli simdan yasalgan 5 zonali prujinali blok tananing har bir qismini alohida qo'llab-quvvatlaydi: bosh, elka, orqa, son, oyoq, umurtqa pog'onasidagi stressni va mushaklar va bo'g'imlarning kuchlanishini engillashtiradi.",
+    "price": "3 869 000",
+    "pictures": {
+      "image_1": "https://askona.uz/upload/webp/resize_cache/iblock/045/1qr7kg6zxchfcylnujqt1kv2odg4400i/q90/1350_900_1/868d7b0ce0a47f9aea0bb0a9467d50d2.webp",
+      "image_2": "https://askona.uz/upload/webp/resize_cache/iblock/fc7/vx2c8nk16g0ldnqn4lepjgb9hco9r1v6/q90/1350_900_1/267c4e2875e181ef196b4fd56c8a807d.webp",
+      "image_3": "https://askona.uz/upload/webp/resize_cache/iblock/d03/o0ikndsf7tdt2z5ne6q5r1og1ccq541y/q90/1350_900_1/81e3a47b23844bbebccd116b9a4a7e0d.webp"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "C+"
+  },{
+    "id": 25,
+    "product_name": "Ortopedik Eko matras",
+    "weight": 150,
+    "kafolat": 3,
+    "olcham": "200x120x40",
+    "sigimi": 2,
+    "desc": "Modelning asosiy xususiyati - mustaqil prujinalar blokidir. Mustaqil yordam tufayli umurtqa pog'onasi uyqu vaqtida anatomik jihatdan to'g'ri holatda bo'ladi, bu ertalab uyqu sifatini va umumiy farovonlikni yaxshilaydi.Bardoshli namat anchagina bardoshli, bu mahsulotning ishlash muddatini sezilarli darajada uzaytiradi. Elastik ko'pik qatlami uxlab yotgan odam tanasining konturiga rioya qilgan holda, matrasning anatomik xususiyatlarini yaxshilaydi. Siz yaxshi uxlaysiz va ertalab o'zingizni yaxshi his qilasiz!",
+    "price": "1 699 999",
+    "pictures": {
+      "image_1": "https://storage.kun.uz/source/9/0YZvahqPEtm0wLRX5wyFt9biwV9spvXN.jpg",
+      "image_2": "https://cdn.matras.ru/upload/catalog/middle/matras-Stearns--Foster-Estate-Cushion.jpg",
+      "image_3": "https://matras.center/3844-home_default/matras-dynasty-styuart-royal-come-for.jpg"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "D"
+  },{
+    "id": 26,
+    "product_name": "Serta Parker matrasi",
+    "weight": 100,
+    "kafolat": 3,
+    "olcham": "200x120x40",
+    "sigimi": 2,
+    "desc": "Modelning asosiy xususiyati - mustaqil prujinalar blokidir. Mustaqil yordam tufayli umurtqa pog'onasi uyqu vaqtida anatomik jihatdan to'g'ri holatda bo'ladi, bu ertalab uyqu sifatini va umumiy farovonlikni yaxshilaydi.Bardoshli namat anchagina bardoshli, bu mahsulotning ishlash muddatini sezilarli darajada uzaytiradi. Elastik ko'pik qatlami uxlab yotgan odam tanasining konturiga rioya qilgan holda, matrasning anatomik xususiyatlarini yaxshilaydi. Siz yaxshi uxlaysiz va ertalab o'zingizni yaxshi his qilasiz!",
+    "price": "14 789 400",
+    "pictures": {
+      "image_1": "https://askona.uz/upload/webp/resize_cache/iblock/d9a/b95xmrjkfbezzx1lu8jbg8meaj7osnnf/q90/1350_900_1/32532265e675dc3dca1f99f26d3ce5d4.webp",
+      "image_2": "https://askona.uz/upload/webp/resize_cache/iblock/bb1/gk7kzsudz7emzqu74b1lij91ixphty7f/q90/1350_900_1/8630da2a551798c596b7cef34b35f918.webp",
+      "image_3": "https://askona.uz/upload/webp/resize_cache/iblock/77d/icq16s6j1cg8oq9m7qxpqb2v8xwqm64y/q90/1350_900_1/4ca4cf37fe893b695c9f2e342318e5e7.webp"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "D"
+  },{
+    "id": 27,
+    "product_name": "Premier matrasi",
+    "weight": 80,
+    "kafolat": 3,
+    "olcham": "200x100x40",
+    "sigimi": 2,
+    "desc": "Premier - bu sifat, qulaylik va o'ziga xoslikning eng yaxshi uyg'unligini namoyish qiluvchi premium matraslar qatori. Anatomik umurtqa pog'onasini qo'llab-quvvatlash tizimi matrasga tananing og'irligi va konturiga nuqta bilan javob berishga, yukni to'g'ri taqsimlashga, uyqu paytida mushaklarni tushirishga imkon beradi.To'shak maxsus texnologiya yordamida ishlab chiqariladi - har mavsumda aylantirish kerak emas.",
+    "price": "2 560 000",
+    "pictures": {
+      "image_1": "https://sleepvip.uz/thumb/2/fJCvC-hnNziRiJcZsDG16A/750r750/d/matras_premier_inside.jpg",
+      "image_2": "https://sleepvip.uz/thumb/2/bMc6i2AkXRh7kDNeAYC_PQ/750r750/d/matress_sleepvip_memory_in_top.jpg",
+      "image_3": "https://sleepvip.uz/thumb/2/3aSe0JqK37F38ffHBwYkrQ/750r750/d/matras_premier_photo.jpg"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "D"
+  },{
+    "id": 28,
+    "product_name": "Anatomik matras",
+    "weight": 140,
+    "kafolat": 3,
+    "olcham": "200x120x40",
+    "sigimi": 3,
+    "desc": "Anatomik to'shak matras evolyutsiyasi ning eng yuqori bosqichi hisoblanadi. Aynan shu xilma-xillik qulaylik, ishonchlilik, sog'liq uchun foyda va boshqa muhim mezonlarga ko'ra eng yuqori talablarga javob beradi. Luxmatras kompaniyasi Toshkent shahridagi anatomik matraslarni ishlab chiqaruvchidan buyurtma qilishni taklif qiladi. Biz yuqori sifatli mahsulotlarni sotamiz va mijozlar uchun eng qulay shartlarda keng qamrovli xizmat ko'rsatamiz.",
+    "price": "1 699 999",
+    "pictures": {
+      "image_1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2oNkNM99WzHdqYCRYDE5A8STt6j9noJC4pyN_WKxG5lEtllsPDBO-GvUNThQRcsm3Toc&usqp=CAU",
+      "image_2": "https://novosib.stolplit.ru/upload/resize_cache/iblock/791/7425sl8u1cbnrjj32b7qxd0agskh1mx6/934_700_0/i0000310661-detail.jpeg",
+      "image_3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB8IOHg3_gWL08607DUfIyEYlUtHiPgj3qV_Zcr3EGXBJLFF0XYfwp2Kf9ufVnf8WCYLA&usqp=CAU"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "D"
+  },{
+    "id": 29,
+    "product_name": "Matras memory",
+    "weight": 150,
+    "kafolat": 3,
+    "olcham": "200x120x40",
+    "sigimi": 2,
+    "desc": "Memory-In - bu yangi darajadagi ta'til! Matrasning yangi,aqlli qatlami uyqu vaqtida tanani o‘rab oladi va o‘ziga xos qulaylik hissi yaratadi.Yuqori qatlam tanaga to'liq bo'shashishga yordam beradi, har bir hujayra butunlay bo'shashganda, vaznsizlik holatiga tushadi. Xotira ning maksimal ta'siri tananing konturlarini takrorlaydigan materiallarning qalinligi oshishi bilan ta'minlanadi. Bu tun davomida o'zingizni qulay his qilishingizni ta'minlaydi, aylanishlar sonini kamaytiradi va uxlashni yaxshilaydi.",
+    "price": "2 160 000",
+    "pictures": {
+      "image_1": "https://storage.kun.uz/source/9/0YZvahqPEtm0wLRX5wyFt9biwV9spvXN.jpg",
+      "image_2": "https://cdn.matras.ru/upload/catalog/middle/matras-Stearns--Foster-Estate-Cushion.jpg",
+      "image_3": "https://matras.center/3844-home_default/matras-dynasty-styuart-royal-come-for.jpg"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "D"
+  },{
+    "id": 30,
+    "product_name": "Matras Basic Optima Hard",
+    "weight": 80,
+    "kafolat": 3,
+    "olcham": "80x200x40",
+    "sigimi": 2,
+    "desc": "Optima to'plamidagi Hard matras  universal va ishonchli model bo'lib, u qulaylikni qadrlaydigan va o'z sog'lig'i va yaqinlarining sog'lig'i haqida qayg'uradigan barchaga mos keladi.Turli diametrli simdan yasalgan 5 zonali prujinali blok tananing har bir qismini alohida qo'llab-quvvatlaydi: bosh, elka, orqa, son, oyoq, umurtqa pog'onasidagi stressni va mushaklar va bo'g'imlarning kuchlanishini engillashtiradi.",
+    "price": "3 869 000",
+    "pictures": {
+      "image_1": "https://askona.uz/upload/webp/resize_cache/iblock/fc7/vx2c8nk16g0ldnqn4lepjgb9hco9r1v6/q90/1350_900_1/267c4e2875e181ef196b4fd56c8a807d.webp",
+      "image_2": "https://askona.uz/upload/webp/resize_cache/iblock/d03/o0ikndsf7tdt2z5ne6q5r1og1ccq541y/q90/1350_900_1/81e3a47b23844bbebccd116b9a4a7e0d.webp",
+      "image_3": "https://askona.uz/upload/webp/resize_cache/iblock/f90/5eqqgjm8ihhk1ffvw4y6uo05z3udhctz/q90/1350_900_1/c13983558ac6dfb6b3ca10720116dad7.webp"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "D"
+  },{
+    "id": 31,
+    "product_name": "Matras Basic Optima Hard",
+    "weight": 150,
+    "kafolat": 3,
+    "olcham": "180x120x40",
+    "sigimi": 2,
+    "desc": "universal va ishonchli model bo'lib, u qulaylikni qadrlaydigan va o'z sog'lig'i va yaqinlarining sog'lig'i haqida qayg'uradigan har bir kishi uchun mutlaqo mos keladi.Turli diametrli simdan yasalgan 5 zonali prujinali blok tananing har bir qismini alohida qo'llab-quvvatlaydi: bosh, elka, orqa, son, oyoq, umurtqa pog'onasidagi stressni va mushaklar va bo'g'imlarning kuchlanishini engillashtiradi.",
+    "price": "3 869 000",
+    "pictures": {
+      "image_1": "https://askona.uz/upload/webp/resize_cache/iblock/045/1qr7kg6zxchfcylnujqt1kv2odg4400i/q90/1350_900_1/868d7b0ce0a47f9aea0bb0a9467d50d2.webp",
+      "image_2": "https://askona.uz/upload/webp/resize_cache/iblock/fc7/vx2c8nk16g0ldnqn4lepjgb9hco9r1v6/q90/1350_900_1/267c4e2875e181ef196b4fd56c8a807d.webp",
+      "image_3": "https://askona.uz/upload/webp/resize_cache/iblock/d03/o0ikndsf7tdt2z5ne6q5r1og1ccq541y/q90/1350_900_1/81e3a47b23844bbebccd116b9a4a7e0d.webp"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "D"
+  },{
+    "id": 32,
+    "product_name": "Serta Parker matrasi",
+    "weight": 100,
+    "kafolat": 3,
+    "olcham": "200x120x40",
+    "sigimi": 2,
+    "desc": "Modelning asosiy xususiyati - mustaqil prujinalar blokidir. Mustaqil yordam tufayli umurtqa pog'onasi uyqu vaqtida anatomik jihatdan to'g'ri holatda bo'ladi, bu ertalab uyqu sifatini va umumiy farovonlikni yaxshilaydi.Bardoshli namat anchagina bardoshli, bu mahsulotning ishlash muddatini sezilarli darajada uzaytiradi. Elastik ko'pik qatlami uxlab yotgan odam tanasining konturiga rioya qilgan holda, matrasning anatomik xususiyatlarini yaxshilaydi. Siz yaxshi uxlaysiz va ertalab o'zingizni yaxshi his qilasiz!",
+    "price": "14 789 400",
+    "pictures": {
+      "image_1": "https://askona.uz/upload/webp/resize_cache/iblock/d9a/b95xmrjkfbezzx1lu8jbg8meaj7osnnf/q90/1350_900_1/32532265e675dc3dca1f99f26d3ce5d4.webp",
+      "image_2": "https://askona.uz/upload/webp/resize_cache/iblock/bb1/gk7kzsudz7emzqu74b1lij91ixphty7f/q90/1350_900_1/8630da2a551798c596b7cef34b35f918.webp",
+      "image_3": "https://askona.uz/upload/webp/resize_cache/iblock/77d/icq16s6j1cg8oq9m7qxpqb2v8xwqm64y/q90/1350_900_1/4ca4cf37fe893b695c9f2e342318e5e7.webp"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "yevro"
+  },{
+    "id": 33,
+    "product_name": "Matras promo Comfort Plus",
+    "weight": 90,
+    "kafolat": 3,
+    "olcham": "200x180x40",
+    "sigimi": 2,
+    "desc": "Modelning asosiy xususiyati mustaqil buloqlar blokidir. Mustaqil yordam tufayli umurtqa pog'onasi uyqu vaqtida anatomik jihatdan to'g'ri holatda bo'ladi, bu ertalab uyqu sifatini va umumiy farovonlikni yaxshilaydi.Bardoshli namat aşınmaya bardoshli, bu mahsulotning ishlash muddatini sezilarli darajada uzaytiradi. Elastik ko'pik qatlami uxlab yotgan odam tanasining konturiga rioya qilgan holda, matrasning anatomik xususiyatlarini yaxshilaydi. Siz yaxshi uxlaysiz va ertalab o'zingizni yaxshi his qilasiz!",
+    "price": "2 450 000",
+    "pictures": {
+      "image_1": "https://askona.uz/upload/webp/resize_cache/iblock/257/98zzzemu2eyfyycvog1ongeighjmq73h/q90/1350_900_1/promo-comfort-plus.webp",
+      "image_2": "https://askona.uz/upload/webp/resize_cache/iblock/855/krz0ah0wvfygjt1nkmzng2ibafo5hni5/q90/1350_900_1/ceefef628e40e8c9bd39a8bf0ed22f9c.webp",
+      "image_3": "https://askona.uz/upload/webp/resize_cache/iblock/aba/et2fwfkfn8ny1lfa1e1l59fgkiba3gwj/q90/1350_900_1/71a19416a05d2a492ccd2d81710d4714.webp"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "yevro"
+  },{
+    "id": 34,
+    "product_name": "Chaqaloqlar matrasi",
+    "weight": 150,
+    "kafolat": 3,
+    "olcham": "170x100x40",
+    "sigimi": 2,
+    "desc": "Baby matraslari seriyasi etakchi pediatr va ortopedlar bilan hamkorlikda ishlab chiqilgan - 0 yoshdan 8 yoshgacha bo'lgan bolalar uchun qattiqligi yuqori bo'lgan nafas oladigan ekologik toza bahorsiz matraslar. Elastik tayanch bolaning vazniga moslashadi va butun xizmat muddati davomida o'zining ortopedik xususiyatlarini saqlab qoladi, bu esa chaqaloq skeletining to'g'ri o'sishi va rivojlanishiga yordam beradi.Ko'pikli plomba tufayli ichkarida zararkunandalar ko'payishi uchun bo'sh joy yo'q",
+    "price": "540 000",
+    "pictures": {
+      "image_1": "https://sleepvip.uz/thumb/2/4T8byrcNMRJXaGaGIiSDeA/750r750/d/sleepvip_baby2.jpg",
+      "image_2": "https://sleepvip.uz/thumb/2/DeAYeKY3X1h9miM_rseAAw/750r750/d/sleepvip_baby_inside.jpg",
+      "image_3": "https://sleepvip.uz/thumb/2/ynsAd8WH-SIXQtgj4-kX-Q/750r750/d/sleepvip_baby_outside.jpg"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "yevro"
+  },{
+    "id": 35,
+    "product_name": "Ortopedik Eko matras",
+    "weight": 150,
+    "kafolat": 3,
+    "olcham": "200x120x40",
+    "sigimi": 2,
+    "desc": "Modelning asosiy xususiyati - mustaqil prujinalar blokidir. Mustaqil yordam tufayli umurtqa pog'onasi uyqu vaqtida anatomik jihatdan to'g'ri holatda bo'ladi, bu ertalab uyqu sifatini va umumiy farovonlikni yaxshilaydi.Bardoshli namat anchagina bardoshli, bu mahsulotning ishlash muddatini sezilarli darajada uzaytiradi. Elastik ko'pik qatlami uxlab yotgan odam tanasining konturiga rioya qilgan holda, matrasning anatomik xususiyatlarini yaxshilaydi. Siz yaxshi uxlaysiz va ertalab o'zingizni yaxshi his qilasiz!",
+    "price": "1 699 999",
+    "pictures": {
+      "image_1": "https://storage.kun.uz/source/9/0YZvahqPEtm0wLRX5wyFt9biwV9spvXN.jpg",
+      "image_2": "https://cdn.matras.ru/upload/catalog/middle/matras-Stearns--Foster-Estate-Cushion.jpg",
+      "image_3": "https://matras.center/3844-home_default/matras-dynasty-styuart-royal-come-for.jpg"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "yevro"
+  },{
+    "id": 36,
+    "product_name": "Toppers",
+    "weight": 150,
+    "kafolat": 3,
+    "olcham": "200x120x40",
+    "sigimi": 3,
+    "desc": "Luxmatras ishlab chiqaruvchisidan Toshkent shahridagi matras topperslarini xarid qilish taklifi xaridorlar uchun keng imkoniyat va istiqbollar ochmoqda. Biz juda yuqori sifatli mahsulotlarni sotamiz va uzoq muddatga kafolat beramiz. Assortimentga turli balandlikdagi toppers kiradi. Mahsulotlar foydalanish qulayligi, samaradorligi, ekologik xavfsizligi va chidamliligi bilan ajralib turadi. Bularning barchasi O'zbekiston uchun matras topperlarining maqbul narxlari, shuningdek, kompaniyamizning tajribali maslahatchilarining ko'magi bilan birlashtirilgan.",
+    "price": "1 699 999",
+    "pictures": {
+      "image_1": "https://luxmatras.uz/thumb/2/2flXd-UHvKRJYFz0ND0K1Q/400r400/d/photo_2021-01-24_13-28-31.jpg",
+      "image_2": "https://www.gbfoamdirect.co.uk/wp-content/uploads/2019/10/mattress-topper.jpg",
+      "image_3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZLC_1u4HRs3YJkfIbSTV4_JXFsVP2ci6bRhP3KBxN2ZJ0rLBXjqCkEQK310xYOkUnj38&usqp=CAU"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "new"
+  },{
+    "id": 37,
+    "product_name": "Premier matrasi",
+    "weight": 80,
+    "kafolat": 3,
+    "olcham": "200x100x40",
+    "sigimi": 2,
+    "desc": "Premier - bu sifat, qulaylik va o'ziga xoslikning eng yaxshi uyg'unligini namoyish qiluvchi premium matraslar qatori. Anatomik umurtqa pog'onasini qo'llab-quvvatlash tizimi matrasga tananing og'irligi va konturiga nuqta bilan javob berishga, yukni to'g'ri taqsimlashga, uyqu paytida mushaklarni tushirishga imkon beradi.To'shak maxsus texnologiya yordamida ishlab chiqariladi - har mavsumda aylantirish kerak emas.",
+    "price": "2 560 000",
+    "pictures": {
+      "image_1": "https://sleepvip.uz/thumb/2/fJCvC-hnNziRiJcZsDG16A/750r750/d/matras_premier_inside.jpg",
+      "image_2": "https://sleepvip.uz/thumb/2/bMc6i2AkXRh7kDNeAYC_PQ/750r750/d/matress_sleepvip_memory_in_top.jpg",
+      "image_3": "https://sleepvip.uz/thumb/2/3aSe0JqK37F38ffHBwYkrQ/750r750/d/matras_premier_photo.jpg"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "new"
+  },{
+    "id": 38,
+    "product_name": "Cloud Flex matras",
+    "weight": 60,
+    "kafolat": 3,
+    "olcham": "200x120x40",
+    "sigimi": 2,
+    "desc": "Yuqori moslashuvchan poliuretan ko'pikli plomba maksimal qulaylikni ta'minlaydi va mushaklarning kuchlanishini kamaytiradi.Yupqa matras qopqog'ining elastik matosi optimal qulaylikni ta'minlaydi.Toza saqlash oson, chunki olinadigan qopqoqni mashinada yuvish mumkin.Rulonga qadoqlangan - uyga olib borish oson.",
+    "price": "1 431 000",
+    "pictures": {
+      "image_1": "https://askona.uz/upload/webp/resize_cache/iblock/9fc/3x6fotiozkxla62xf4i4dayqrsbrz23m/q90/1350_900_1/98b885df9fc1869abd01b1a806df2794.webp",
+      "image_2": "https://askona.uz/upload/webp/resize_cache/iblock/aeb/r4yhyuaich7almpyzansy0tofq0twl1s/q90/1350_900_1/1bcacefde1936b536e99aebf9b3f3d64.webp",
+      "image_3": "https://askona.uz/upload/webp/resize_cache/iblock/47b/7dikmmziqw92fzc8h65skeix0uze9pe0/q90/1350_900_1/cloud-flex.webp"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "new"
+  },{
+    "id": 39,
+    "product_name": "Ortopedik Eko matras",
+    "weight": 150,
+    "kafolat": 3,
+    "olcham": "200x120x40",
+    "sigimi": 2,
+    "desc": "Modelning asosiy xususiyati - mustaqil prujinalar blokidir. Mustaqil yordam tufayli umurtqa pog'onasi uyqu vaqtida anatomik jihatdan to'g'ri holatda bo'ladi, bu ertalab uyqu sifatini va umumiy farovonlikni yaxshilaydi.Bardoshli namat anchagina bardoshli, bu mahsulotning ishlash muddatini sezilarli darajada uzaytiradi. Elastik ko'pik qatlami uxlab yotgan odam tanasining konturiga rioya qilgan holda, matrasning anatomik xususiyatlarini yaxshilaydi. Siz yaxshi uxlaysiz va ertalab o'zingizni yaxshi his qilasiz!",
+    "price": "1 699 999",
+    "pictures": {
+      "image_1": "https://storage.kun.uz/source/9/0YZvahqPEtm0wLRX5wyFt9biwV9spvXN.jpg",
+      "image_2": "https://cdn.matras.ru/upload/catalog/middle/matras-Stearns--Foster-Estate-Cushion.jpg",
+      "image_3": "https://matras.center/3844-home_default/matras-dynasty-styuart-royal-come-for.jpg"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "new"
+  },{
+    "id": 40,
+    "product_name": "Matras GRETHER & WELLS Luxury kremi",
+    "weight": 150,
+    "kafolat": 3,
+    "olcham": "200x120x40",
+    "sigimi": 2,
+    "desc": " matrasi yumshoq to'shakni tanlagan elita va murakkab tabiat uchun ideal xarid bo'ladi. Nozik anatomik yordam mustaqil buloqlarning 7 zonali bloki bilan ta'minlanadi.  U tananing barcha individual xususiyatlariga moslashadi va og'irlikni sirt bo'ylab teng ravishda taqsimlash va uxlayotgan odam uchun ajoyib qulaylik yaratish uchun har bir egri chiziqni kuzatib boradi.",
+    "price": "18 640 050",
+    "pictures": {
+      "image_1": "https://askona.uz/upload/webp/resize_cache/iblock/79d/ykae9gm23pil18y2cat085rfqa2emoqv/q90/1350_900_1/7cee0a6280eea8fb9c8dabeae07ec2cd.webp",
+      "image_2": "https://askona.uz/upload/webp/resize_cache/iblock/1d5/6e1fnj286xqmvggms3l53by8f6hl0p9l/q90/1350_900_1/a5b5df53bee2033af66829b9b4c5dc2e.webp",
+      "image_3": "https://askona.uz/upload/webp/resize_cache/iblock/02d/cxuj4dgbjp1g7gmj4snvgmouaxocq5ve/q90/1350_900_1/dfee985656de3643d777d96c249a0928.webp"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "new"
+  },{
+    "id": 41,
+    "product_name": "Ortopedik Eko matras",
+    "weight": 150,
+    "kafolat": 3,
+    "olcham": "200x120x40",
+    "sigimi": 2,
+    "desc": "Modelning asosiy xususiyati - mustaqil prujinalar blokidir. Mustaqil yordam tufayli umurtqa pog'onasi uyqu vaqtida anatomik jihatdan to'g'ri holatda bo'ladi, bu ertalab uyqu sifatini va umumiy farovonlikni yaxshilaydi.Bardoshli namat anchagina bardoshli, bu mahsulotning ishlash muddatini sezilarli darajada uzaytiradi. Elastik ko'pik qatlami uxlab yotgan odam tanasining konturiga rioya qilgan holda, matrasning anatomik xususiyatlarini yaxshilaydi. Siz yaxshi uxlaysiz va ertalab o'zingizni yaxshi his qilasiz!",
+    "price": "1 699 999",
+    "pictures": {
+      "image_1": "https://storage.kun.uz/source/9/0YZvahqPEtm0wLRX5wyFt9biwV9spvXN.jpg",
+      "image_2": "https://cdn.matras.ru/upload/catalog/middle/matras-Stearns--Foster-Estate-Cushion.jpg",
+      "image_3": "https://matras.center/3844-home_default/matras-dynasty-styuart-royal-come-for.jpg"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "new"
+  },{
+    "id": 42,
+    "product_name": "Bolalar uchun matraslar",
+    "weight": 120,
+    "kafolat": 3,
+    "olcham": "200x100x50",
+    "sigimi": 4,
+    "desc": "Kompaniyamizning Toshkent shahridagi bolalar uchun matraslarga buyurtma berish taklifi nafaqat mahsulotlarning benuqson sifati. Biz siz uchun - g'amxo'r ota-onalar uchun bunday mahsulotlarni sotib olishdan maksimal foyda keltiramiz. Bolalar matrasini sotib olish uchun bizga murojaat qilib, siz buyurtmangizni eng qisqa vaqt ichida (uch kungacha) olish imkoniyatiga ega bo'lasiz. Biz bolalar matraslarini bepul yetkazib beramiz va doimiy mijozlarga chegirmalar beramiz.",
+    "price": "600 000",
+    "pictures": {
+      "image_1": "https://zoodmall.com/cdn-cgi/image/w=500,fit=contain,f=auto/https://images.zoodmall.com/web/product/picture/59/27162959/167792718389848000794.jpeg",
+      "image_2": "https://askona.uz/upload/webp/resize_cache/iblock/511/eqdvfvqunuulnx2djyd19sucbkk5dphv/q100/249_139_1/b0d95c22b4e7737087d586a9bd5d28e7.webp",
+      "image_3": "https://askona.uz/upload/webp/resize_cache/iblock/4e6/fsq25v1ey7qy3vvmyrh4frdejr443vem/q100/249_139_1/27d3cfdf25212d966b0aaf960ca7bae3.webp"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "A"
+  },{
+    "id": 43,
+    "product_name": "Anatomik matras",
+    "weight": 140,
+    "kafolat": 3,
+    "olcham": "200x120x40",
+    "sigimi": 3,
+    "desc": "Anatomik to'shak matras evolyutsiyasi ning eng yuqori bosqichi hisoblanadi. Aynan shu xilma-xillik qulaylik, ishonchlilik, sog'liq uchun foyda va boshqa muhim mezonlarga ko'ra eng yuqori talablarga javob beradi. Luxmatras kompaniyasi Toshkent shahridagi anatomik matraslarni ishlab chiqaruvchidan buyurtma qilishni taklif qiladi. Biz yuqori sifatli mahsulotlarni sotamiz va mijozlar uchun eng qulay shartlarda keng qamrovli xizmat ko'rsatamiz.",
+    "price": "1 699 999",
+    "pictures": {
+      "image_1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2oNkNM99WzHdqYCRYDE5A8STt6j9noJC4pyN_WKxG5lEtllsPDBO-GvUNThQRcsm3Toc&usqp=CAU",
+      "image_2": "https://novosib.stolplit.ru/upload/resize_cache/iblock/791/7425sl8u1cbnrjj32b7qxd0agskh1mx6/934_700_0/i0000310661-detail.jpeg",
+      "image_3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB8IOHg3_gWL08607DUfIyEYlUtHiPgj3qV_Zcr3EGXBJLFF0XYfwp2Kf9ufVnf8WCYLA&usqp=CAU"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "A"
+  },{
+    "id": 44,
+    "product_name": "Toppers",
+    "weight": 150,
+    "kafolat": 3,
+    "olcham": "200x120x40",
+    "sigimi": 3,
+    "desc": "Luxmatras ishlab chiqaruvchisidan Toshkent shahridagi matras topperslarini xarid qilish taklifi xaridorlar uchun keng imkoniyat va istiqbollar ochmoqda. Biz juda yuqori sifatli mahsulotlarni sotamiz va uzoq muddatga kafolat beramiz. Assortimentga turli balandlikdagi toppers kiradi. Mahsulotlar foydalanish qulayligi, samaradorligi, ekologik xavfsizligi va chidamliligi bilan ajralib turadi. Bularning barchasi O'zbekiston uchun matras topperlarining maqbul narxlari, shuningdek, kompaniyamizning tajribali maslahatchilarining ko'magi bilan birlashtirilgan.",
+    "price": "1 699 999",
+    "pictures": {
+      "image_1": "https://luxmatras.uz/thumb/2/2flXd-UHvKRJYFz0ND0K1Q/400r400/d/photo_2021-01-24_13-28-31.jpg",
+      "image_2": "https://www.gbfoamdirect.co.uk/wp-content/uploads/2019/10/mattress-topper.jpg",
+      "image_3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZLC_1u4HRs3YJkfIbSTV4_JXFsVP2ci6bRhP3KBxN2ZJ0rLBXjqCkEQK310xYOkUnj38&usqp=CAU"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "A"
+  },{
+    "id": 45,
+    "product_name": "Premier matrasi",
+    "weight": 80,
+    "kafolat": 3,
+    "olcham": "200x100x40",
+    "sigimi": 2,
+    "desc": "Premier - bu sifat, qulaylik va o'ziga xoslikning eng yaxshi uyg'unligini namoyish qiluvchi premium matraslar qatori. Anatomik umurtqa pog'onasini qo'llab-quvvatlash tizimi matrasga tananing og'irligi va konturiga nuqta bilan javob berishga, yukni to'g'ri taqsimlashga, uyqu paytida mushaklarni tushirishga imkon beradi.To'shak maxsus texnologiya yordamida ishlab chiqariladi - har mavsumda aylantirish kerak emas.",
+    "price": "2 560 000",
+    "pictures": {
+      "image_1": "https://sleepvip.uz/thumb/2/fJCvC-hnNziRiJcZsDG16A/750r750/d/matras_premier_inside.jpg",
+      "image_2": "https://sleepvip.uz/thumb/2/bMc6i2AkXRh7kDNeAYC_PQ/750r750/d/matress_sleepvip_memory_in_top.jpg",
+      "image_3": "https://sleepvip.uz/thumb/2/3aSe0JqK37F38ffHBwYkrQ/750r750/d/matras_premier_photo.jpg"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "A"
+  },{
+    "id": 46,
+    "product_name": "Matras GRETHER & WELLS Luxury kremi",
+    "weight": 150,
+    "kafolat": 3,
+    "olcham": "200x120x40",
+    "sigimi": 2,
+    "desc": " matrasi yumshoq to'shakni tanlagan elita va murakkab tabiat uchun ideal xarid bo'ladi. Nozik anatomik yordam mustaqil buloqlarning 7 zonali bloki bilan ta'minlanadi.  U tananing barcha individual xususiyatlariga moslashadi va og'irlikni sirt bo'ylab teng ravishda taqsimlash va uxlayotgan odam uchun ajoyib qulaylik yaratish uchun har bir egri chiziqni kuzatib boradi.",
+    "price": "18 640 050",
+    "pictures": {
+      "image_1": "https://askona.uz/upload/webp/resize_cache/iblock/79d/ykae9gm23pil18y2cat085rfqa2emoqv/q90/1350_900_1/7cee0a6280eea8fb9c8dabeae07ec2cd.webp",
+      "image_2": "https://askona.uz/upload/webp/resize_cache/iblock/1d5/6e1fnj286xqmvggms3l53by8f6hl0p9l/q90/1350_900_1/a5b5df53bee2033af66829b9b4c5dc2e.webp",
+      "image_3": "https://askona.uz/upload/webp/resize_cache/iblock/02d/cxuj4dgbjp1g7gmj4snvgmouaxocq5ve/q90/1350_900_1/dfee985656de3643d777d96c249a0928.webp"
+    },
+    "turi": "Yangi mahsulot",
+    "model": "A"
+  }
+  
+]

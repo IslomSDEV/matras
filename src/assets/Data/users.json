@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "ismi": "Jenny Wilson",
+        "telefon_raqam": "+998 90 123 45 67",
+        "mahsulot_nomi": "Ortopedik Eko matras",
+        "miqdori": 5,
+        "qayta_aloqa": false,
+        "date": "12:13-12.05.2021"
+    },
+    {
+        "id": 2,
+        "ismi": "MuhammadIslom",
+        "telefon_raqam": "+998 90 123 45 67",
+        "mahsulot_nomi": "Ortopedik Eko matras",
+        "miqdori": 3,
+        "qayta_aloqa": true,
+        "date": "12:13-12.05.2021"
+
+    },
+    {
+        "id": 3,
+        "ismi": "Rustambek",
+        "telefon_raqam": "+998 90 123 45 67",
+        "mahsulot_nomi": "Ortopedik Eko matras",
+        "miqdori": 1,
+        "qayta_aloqa": true,
+        "date": "12:13-12.05.2021"
+
+    },
+    {
+        "id": 4,
+        "ismi": "Shohruh",
+        "telefon_raqam": "+998 90 123 45 67",
+        "mahsulot_nomi": "Ortopedik Eko matras",
+        "miqdori": 2,
+        "qayta_aloqa": false,
+        "date": "12:13-12.05.2021"
+
+    },
+    {
+        "id": 5,
+        "ismi": "Sulton",
+        "telefon_raqam": "+998 90 123 45 67",
+        "mahsulot_nomi": "Ortopedik Eko matras",
+        "miqdori": 3,
+        "qayta_aloqa": true,
+        "date": "12:13-12.05.2021"
+
+    }
+]

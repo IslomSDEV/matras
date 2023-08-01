@@ -1,0 +1,24 @@
+
+.oldpriceess {
+    line-height: 18px;
+    font-weight: 600;
+    color: #FF5D5D;
+    font-size: 18px;
+    font-family: "Josefin Sans", sans-serif;
+    text-decoration: line-through;
+}
+
+.oldoricesum {
+    font-size: 10px;
+    line-height: 10px;
+    font-weight: 600;
+    color: #FF5D5D;
+    opacity: 80%;
+    font-family: "Josefin Sans", sans-serif;
+    margin-right: 10px;
+}
+
+.skidkaPicture {
+    width: 100%;
+    height: 100%;
+}
