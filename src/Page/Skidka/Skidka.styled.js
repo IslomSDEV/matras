@@ -6,6 +6,9 @@ export const SkidkaSy = styled.div`
     padding: 10px 0;
 `
 
+export const MM = styled.div `
+`
+
 export const SkidkaTitle = styled.h2`
     width: 100%;
     padding: 40px 0;
