@@ -1,9 +1,5 @@
 import { styled } from "styled-components";
 
-import {
-    style
-} from "react";
-
 export const HomeSy = styled.div`
     width: 100vw;
     height: 64vh;
